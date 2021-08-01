@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/robgrame/DevOpsReadiness/_apis/build/status/robgrame.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/robgrame/DevOpsReadiness/_build/latest?definitionId=3&branchName=main)
+
+
 
 # Contributing
 
